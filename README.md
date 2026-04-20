@@ -1365,6 +1365,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design)** - Build tools that agents can use effectively, including architectural reduction patterns
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
+- **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
 
 </details>
